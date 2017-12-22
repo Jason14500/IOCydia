@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>async_wake_ios.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A44A9E7518752F41257E6CE3DC7E7B51B5A499AC</string>
+				<key>dateExpires</key>
+				<string>2018-12-21</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A44A9E7518752F41257E6CE3DC7E7B51B5A499AC</string>
+						<key>dateExpires</key>
+						<string>2018-12-21</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>launchctl</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>WZ39WKWCEH</string>
+						<key>name</key>
+						<string>Sharon Berry</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A44A9E7518752F41257E6CE3DC7E7B51B5A499AC</string>
+						<key>dateExpires</key>
+						<string>2018-12-21</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>test_fsigned</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>WZ39WKWCEH</string>
+						<key>name</key>
+						<string>Sharon Berry</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>WZ39WKWCEH.com.ninjaprawn.async-wake-ios</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>WZ39WKWCEH</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>WZ39WKWCEH.com.ninjaprawn.async-wake-ios</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>async_wake_ios.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>6068dac8-0744-4412-8121-ac229bc1c4a5</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>WZ39WKWCEH</string>
+				<key>name</key>
+				<string>Sharon Berry</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
